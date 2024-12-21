@@ -1,0 +1,1 @@
+Em breve atualizarei a descrição desse repositório, até lá, saiba que é um repositório voltado para guardar algumas atividades propostas de HTML no curso de Ánalise e Desenvolvimento de Sistemas, IFPB, Cajazeiras.
